@@ -14,5 +14,9 @@ Studying CPP page
 |copy_if|지정된 조건에 대해 true인 지정 범위의 모든 요소를 복사하는 함수|
 |copy_n|지정된 수만큼 요소를 복사하는 함수|
 |count|어떤 영역에서 지정한 값과 일치하는 것이 얼마나 있는지 반환하는 함수|
+|count_if|범위 내에서 해당 값이 지정된 조건과 일치하는 요소의 개수를 반환하는 함수|
 
-resource: https://docs.microsoft.com/ko-kr/cpp/standard-library/algorithm?view=msvc-170
+
+NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
+
+REFERENCE: \<algorithm\> 함수, https://docs.microsoft.com/ko-kr/cpp/standard-library/algorithm?view=msvc-170
