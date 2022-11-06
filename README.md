@@ -15,7 +15,7 @@ Studying CPP page
 |copy_n|지정된 수만큼 요소를 복사하는 함수|
 |count|어떤 영역에서 지정한 값과 일치하는 것이 얼마나 있는지 반환하는 함수|
 |count_if|범위 내에서 해당 값이 지정된 조건과 일치하는 요소의 개수를 반환하는 함수|
-
+|equal|두 범위를 요소별로 비교하여 같음 여부 또는 이진 조건자가 지정한 의미의 동등성을 확인하는 함수|
 
 NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
 
