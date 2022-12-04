@@ -17,6 +17,7 @@ Studying CPP page
 |count_if|범위 내에서 해당 값이 지정된 조건과 일치하는 요소의 개수를 반환하는 함수|
 |equal|두 범위를 요소별로 비교하여 같음 여부 또는 이진 조건자가 지정한 의미의 동등성을 확인하는 함수|
 |equal_range|정렬된 범위가 지정되면, 모든 요소가 지정된 값에 해당하는 하위 범위를 찾는 함수|
+|fill|지정한 범위의 모든 요소에 동일한 새 값을 할당하는 함수|
 
 NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
 
