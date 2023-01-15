@@ -20,6 +20,7 @@ Studying CPP page
 |fill|지정한 범위의 모든 요소에 동일한 새 값을 할당하는 함수|
 |fill_n|특정 요소로 시작하는 범위에서 지정된 개수의 요소에 새 값을 할당하는 함수|
 |find|범위에서 지정된 값을 가진 요소가 첫 번째로 나타나는 위치를 찾는 함수|
+|find_end|범위에서 지정된 시퀀스와 동일하거나 이진 조건자가 지정한 의미와 동일한 마지막 하위 시퀀스를 찾는 함수|
 
 
 NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
