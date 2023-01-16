@@ -21,7 +21,9 @@ Studying CPP page
 |fill_n|특정 요소로 시작하는 범위에서 지정된 개수의 요소에 새 값을 할당하는 함수|
 |find|범위에서 지정된 값을 가진 요소가 첫 번째로 나타나는 위치를 찾는 함수|
 |find_end|범위에서 지정된 시퀀스와 동일하거나 이진 조건자가 지정한 의미와 동일한 마지막 하위 시퀀스를 찾는 함수|
+|find_first_of|대상 범위 내에서 여러 값이 첫 번째로 나타나는 경우 또는 이진 조건자가 지정한 의미에서 지정된 요소 집합과 동일한 여러 요소가 첫 번째로 나타나는 경우를 검색하는 함수|
 
+<hr> </hr>
 
 NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
 
