@@ -4,7 +4,7 @@ Date: 2024. 11. 1.
 */
 
 #include <vector>
-#include <algoritm>
+#include <algorithm>
 #include <functional> // For greater<int>( )
 #include <iostream>
 
@@ -20,7 +20,10 @@ int main()
   v1b.push_back(1);
   v1b.push_back(2);
 
+  //result express
   bool Result1;
   Result1 = includes(v1a.begin(), v1a.end(), v1b.begin(), v1b.end());
-  
+
+  cout << Result1 << endl;
+
 }
