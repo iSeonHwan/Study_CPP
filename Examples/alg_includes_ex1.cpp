@@ -1,18 +1,16 @@
 /*
 Define: Algoritm includes example code
-Date: 2024. 11. 1.
+Date: 2024. 11. 2.
 */
 
 #include <vector>
 #include <algorithm>
-#include <functional> // For greater<int>( )
 #include <iostream>
 
 int main()
 {
   using namespace std;
   vector<int> v1a, v1b;
-  vector<int>::iterator Iter1a, Iter1b;
 
   v1a.push_back(1);
   v1a.push_back(2);
