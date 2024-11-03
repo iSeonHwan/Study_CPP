@@ -33,3 +33,9 @@ void inplace_merge(
   Compare pred);
 
 */
+
+int main()
+{
+
+  return 0;
+}
