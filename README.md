@@ -18,10 +18,8 @@ CPP 라이브러리를 공부하고 정리하는 개인적인 페이지입니다
 
 
 
-
-
-
-현재 읽고 있는 페이지:
+  
+ 현재 읽고 있는 페이지:
  - REFERENCE: \<algorithm\> 함수, https://docs.microsoft.com/ko-kr/cpp/standard-library/algorithm?view=msvc-170
  - NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
 
