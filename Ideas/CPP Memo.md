@@ -35,10 +35,3 @@
 |includes|어떤 정렬된 범위가 다른 정렬된 범위를 포괄할 수 있는지 여부를 테스트는 하는 함수.|
 |inplace_merge|두 연속 정렬 범위의 요소를 단일 정렬 범위로 결합하는 함수.|
 
-
-
-<hr> </hr>
-
-NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
-
-REFERENCE: \<algorithm\> 함수, https://docs.microsoft.com/ko-kr/cpp/standard-library/algorithm?view=msvc-170
