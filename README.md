@@ -24,7 +24,7 @@ CPP 라이브러리를 공부하고 정리하는 개인적인 페이지입니다
  - NEXT article: https://learn.microsoft.com/ko-kr/cpp/cpp/scope-resolution-operator?view=msvc-170
 
 코드 연습하는 페이지
- - 현재: https://codeup.kr/problem.php?id=1284
+ - 현재: https://codeup.kr/problem.php?id=1285
  - Next: 
 
 ## 참고 자료
